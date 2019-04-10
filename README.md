@@ -1,3 +1,4 @@
 # GestionStage
-TP4
-Exercices d'entrainement à Git
+TP4\
+Exercices d'entrainement à Git\
+Test
